@@ -1,0 +1,8 @@
+  #name of the company & the uri to apply 
+- perk: {company: "KEMP Tehcnologies", uri: "http://kemptechnologies.com/"}
+  #product/service description
+ description: "A complimentary NFR copy of LoadMaster VLM-2000 load balancer is a device that acts as a reverse proxy and distributes network or application traffic across a number of servers"
+  #the products/services offered to MVP's
+  products: ["LoadMaster VLM-2000"]Enter file contents here
+  http://kemptechnologies.com/latam/microsoft-pros-loadmaster-license-request/
+  
