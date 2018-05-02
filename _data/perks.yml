@@ -209,6 +209,6 @@
   products: ["QueryStorm Unlimited License"]
 
 - company: "Tower"
-  uri: "https://www.git-tower.com"
-  description: "We offer free NFR licenses to Microsoft MVPs for "Tower", our Git desktop client for Windows and Mac."
+  uri: "https://www.git-tower.com/support/contact"
+  description: "We offer free NFR licenses to Microsoft MVPs for "Tower", our Git desktop client for Windows and Mac. MVPs can simply and informally get in touch with our support to claim their license."
   products: ["Tower"]
