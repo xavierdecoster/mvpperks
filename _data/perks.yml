@@ -28,16 +28,6 @@
   description: "MyGet allows you to create and host your own NuGet, symbols, npm, Bower and VSIX feeds. Include packages from the official NuGet or npm repositories or upload your own. Compatible with NuGet, the Visual Studio Package Manager Console, Orchard, SymbolSource, and many more."
   products: ["MyGet MVP Subscription"]
 
-- company: "Pluralsight"
-  uri: "http://blog.pluralsight.com/2015-vexperts-mvps-free-training"
-  description: "Pluralsight’s special gift is one year of free, unlimited dev, creative and IT training. That’s 3,000+ courses on the latest technologies including topics ranging from virtualization and security, to SQL Server and .NET."
-  products: ["Annual Plus Subscription"]
-
-- company: "Telerik"
-  uri: "http://developer.telerik.com/community/microsoft-mvps/"
-  description: ".NET Developer Tools and Controls, End-to-End Mobile Solution and Testing."
-  products: ["DevCraft Complete Edition", "Telerik Platform Business Subscription", "Test Studio Ultimate Perpetual License"]
-
 - company: "SyncFusion"
   uri: "http://www.syncfusion.com/sales/licensemodel#MicrosoftMVP"
   description: "We know that Microsoft MVPs provide resources and guidance to the development community. Syncfusion would like to reward that contribution with free, not-for-resale (NFR) licenses of our products to MVPs."
@@ -62,11 +52,6 @@
   uri: "http://www.typemock.com/mvp"
   description: "Did you know that as a Microsoft MVP, you are eligible for a free version of Typemock unit testing products? Take advantage and start unit testing."
   products: ["Any"]
-  
-- company: "OrcsWeb"
-  uri: "http://www.orcsweb.com/complimentary-microsoft-mvp-hosting/"
-  description: "OrcsWeb has been and will continue to be a major supporter of Microsoft’s MVP and ASP/.NET Insider programs and the folks that have achieved that designation.  As a way of showing our support, we offer a complimentary Small Business Shared Hosting plan to everyone active in either of these programs."
-  products: ["Small Business Shared Hosting"]
 
 - company: "NCover"
   uri: "http://www.ncover.com/nfr-mvp"
@@ -89,7 +74,7 @@
   products: ["SiaqoDB", "NoSQL"]
 
 - company: "elmah.io"
-  uri: "https://elmah.io/"
+  uri: "https://elmah.io/sponsorship/microsoftmvp/"
   description: "elmah.io provides MVPs with a free Personal subscription for logging errors from your blog, personal website or similar."
   products: ["elmah.io"]
   
@@ -97,11 +82,6 @@
   uri: "http://docs.google.com/forms/d/1eq7r9YCgIc0tsb5GbtYFs6Fn7GMQnv-__5ztK5247x4/viewform"
   description: "Request a free NFR (not for resale) Synergy account with download access. It's software for sharing your mouse and keyboard between multiple computers on your desk. It works on Windows, Mac OS X and Linux."
   products: ["Synergy"]
-  
-- company: "OzCode"
-  uri: "http://www.oz-code.com/CurrentPurchase/MVP"
-  description: "The revolutionary debugging extension, which complements Visual Studio and supercharges the C# debugging experience."
-  products: ["OzCode"]
   
 - company: "SysKit"
   uri: "https://www.syskit.com"
@@ -112,12 +92,7 @@
   uri: "https://www.digicert.com/friends/mvp.php"
   description: "Offers free SSL certificates to Microsoft MVPs and Microsoft Employees for testing and personal use"
   products: ["SSL Certificates"]
-  
-- company: "thycotic"
-  uri: "https://thycotic.com/about-us/events/free-nfr-key-for-microsoft-mvps-and-vmware-vexperts/"
-  description: "Offer Secret Server Professional Edition Key for 10 Users for 1 year"
-  products: ["Secret Server Professional Edition"]
-  
+
 - company: "code4ward"
   uri: "https://www.royalapplications.com/ts/nfr/"
   description: "Offer Royal TS/X NFR License for personal use"
@@ -139,7 +114,7 @@
   products: ["Any"]
  
 - company: "Solarwinds"
-  uri: "https://thwack.solarwinds.com/community/solarwinds-community/announcements/blog/2014/05/09/solarwinds-nfr-licenses-for-thwack-mvps-partners#start=25"
+  uri: "https://thwack.solarwinds.com/resources/command-central/w/thwack-documentation/76/solarwinds-thwack-mvp"
   description: "Calling all thwack MVPs and SolarWinds Technology Partner MVPs.  We have some wishes to answer.  You can now get your own perpetual license provisioned for any SolarWinds product!  Below is the process for obtaining a NFR (not for resale) license of SolarWinds product(s)."
   products: ["Any"] 
   
@@ -164,7 +139,7 @@
   products: ["Codealike Premium"] 
   
 - company: "PostSharp"
-  uri: "https://www.postsharp.net/purchase/request-free"
+  uri: "https://www.postsharp.net/pricing/request-free"
   description: "We offer free PostSharp licenses to Microsoft MVPs, influential bloggers, authors, user group leaders and qualified freelancers."
   products: ["PostSharp"] 
 
@@ -183,13 +158,8 @@
   description: "Devolutions offers free NFR (Not for Resale) licenses to Microsoft MVP, Citrix CTP and VMware vExpert for personal use and demo purposes."
   products: ["Enterprise License for Remote Desktop Manager"]
   
-- company: "RevDeBug"
-  uri: "https://academy.revdebug.com/"
-  description: "RevDeBug offers a free license, training and support, visual materials, development roadmap, and the ability to vote and raise issues for MVPs."
-  products: ["RevDeBug License"]
-    
 - company: "Windy Range Software"
-  uri: "https://www.querystorm.com/"
+  uri: "https://querystorm.com/request-free-key/"
   description: "QueryStorm brings SQL and C# into Excel. It enables querying Excel tables with SQL/LINQ and allows rapid prototyping with C#/Excel. Microsoft MVP's get a free perpetual license that can be used on up to three machines. Fill out the form at https://www.querystorm.com/mvp.html and claim your license."
   products: ["QueryStorm Unlimited License"]
 
@@ -197,11 +167,6 @@
   uri: "https://www.git-tower.com/support/contact"
   description: "We offer free NFR licenses to Microsoft MVPs for 'Tower', our Git desktop client for Windows and Mac. MVPs can simply and informally get in touch with our support to claim their license."
   products: ["Tower"]
-
-- company: "Octopus Deploy"
-  uri: "https://github.com/OctopusDeployCommunity/OctopusCommunity/blob/main/friends.md"
-  description: "We offer Microsoft MVPs and Friends of Redgate a free self-hosted or Octopus Cloud license."
-  products: ["Octopus Deploy"]
 
 - company: "Bit Miracle"
   uri: "https://bitmiracle.com/pdf-library/licenses/free#experts"
