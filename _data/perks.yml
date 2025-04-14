@@ -28,11 +28,6 @@
   description: "MyGet allows you to create and host your own NuGet, symbols, npm, Bower and VSIX feeds. Include packages from the official NuGet or npm repositories or upload your own. Compatible with NuGet, the Visual Studio Package Manager Console, Orchard, SymbolSource, and many more."
   products: ["MyGet MVP Subscription"]
 
-- company: "Cerebrata"
-  uri: "http://www.cerebrata.com/pricing/mvp"
-  description: "All Microsoft MVPs can claim a complimentary NFR license for any one of our products."
-  products: ["Any"]
-
 - company: "Pluralsight"
   uri: "http://blog.pluralsight.com/2015-vexperts-mvps-free-training"
   description: "Pluralsight’s special gift is one year of free, unlimited dev, creative and IT training. That’s 3,000+ courses on the latest technologies including topics ranging from virtualization and security, to SQL Server and .NET."
